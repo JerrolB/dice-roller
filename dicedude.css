@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.nobr {
+  display: inline;
+}
+
+#container {
+  width: 50%;
+  height: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 30px;
+}
+
+#logcontainer {
+  border: 1px solid black;
+  height: 75%;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+#logbutton {
+  width: 80%;
+  font-weight: bold;
+  font-size: larger;
+  margin-top: 25px;
+}
+
+#log {
+  margin-right: 15px;
+}
